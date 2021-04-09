@@ -1,6 +1,6 @@
 # hw11-UFO-sightings-javascript
 
-#### GRADE: --
+#### GRADE: A
 
 After assigning the data from dada.js to a variable, I also assigned the button and form to a variable so I could interact with them in event listeners.
 
