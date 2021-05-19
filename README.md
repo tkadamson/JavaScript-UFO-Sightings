@@ -2,7 +2,7 @@
 
 ### Summary | GRADE: A
 
-This project was an introduction to JavaScript. Most of the HTML code was already written as started code, and my task was using event listeners to dispay the UFO sighting entries which matched the user's search criteria.
+This project was an introduction to JavaScript. Most of the HTML code was already written as started code, and my task was using event listeners to dislpay the UFO sighting entries which matched the user's search criteria.
 
 ### Project Writeup
 
