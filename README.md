@@ -1,8 +1,12 @@
-# hw11-UFO-sightings-javascript
+# JavaScript-UFO-Sightings
 
-#### GRADE: A
+### Summary | GRADE: A
 
-After assigning the data from dada.js to a variable, I also assigned the button and form to a variable so I could interact with them in event listeners.
+This project was an introduction to JavaScript. Most of the HTML code was already written as started code, and my task was using event listeners to dispay the UFO sighting entries which matched the user's search criteria.
+
+### Project Writeup
+
+After assigning the data from data.js to a variable, I also assigned the button and form to a variable so I could interact with them in event listeners.
 
 The bulk of the code was within a runEnter() function, which would be executed when the filter button was clicked. First I made sure that the page wouldn't reload while the function was in progress, and I cleared out the tbody tag so each filter would start a fresh table. Then I grabbed each element from the form by specifying the form field by its id and then using .property("value") to extract the user-generated value. 
 
